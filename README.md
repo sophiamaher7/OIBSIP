@@ -11,7 +11,7 @@ The projects focus on applying Python and data analytics techniques to practical
 
 ## 📂 Projects
 
-### 1. 📊 Retail Sales Exploratory Data Analysis
+### 1. Retail Sales Exploratory Data Analysis
 
 An exploratory analysis of retail sales data designed to identify patterns, trends, and relationships within the dataset.
 
@@ -31,7 +31,7 @@ The analysis includes:
 
 ---
 
-### 2. 🧹 Financial Data Cleaning
+### 2. Financial Data Cleaning
 
 A data-cleaning project focused on preparing financial data for reliable downstream analysis.
 
@@ -48,7 +48,7 @@ The project covers:
 **Tools:** Python, pandas, Jupyter Notebook
 ---
 
-### 3. 👥 Customer Segmentation Analysis
+### 3. Customer Segmentation Analysis
 
 A customer analytics project using the **Online Retail II / Online Retail transaction data** to identify groups of customers with similar purchasing behaviour.
 
@@ -78,7 +78,7 @@ The analysis resulted in **four customer segments** with different levels of pur
 
 ---
 
-# 🛠️ Technologies Used
+# Technologies Used
 
 | Technology           | Application                            |
 | -------------------- | -------------------------------------- |
@@ -93,7 +93,7 @@ The analysis resulted in **four customer segments** with different levels of pur
 
 ---
 
-# 📈 Skills Applied
+# Skills Applied
 
 Through these projects, I gained practical experience in:
 
@@ -112,7 +112,7 @@ Through these projects, I gained practical experience in:
 
 ---
 
-# 🧠 Learning Progression
+# Learning Progression
 
 The projects reflect my progression through different stages of the data analytics workflow:
 
@@ -140,7 +140,7 @@ Each project allowed me to apply concepts learned during the internship to a dif
 
 ---
 
-# 🎓 Internship
+# Internship
 
 **Program:** Oasis Infobyte Data Analytics Internship
 **Domain:** Data Analytics
@@ -150,7 +150,7 @@ This repository contains the Python-based projects completed as part of the inte
 
 ---
 
-# 👩‍💻 About Me
+# About Me
 
 I am an Economics graduate developing my skills in **Data Analytics and Business Intelligence**.
 
