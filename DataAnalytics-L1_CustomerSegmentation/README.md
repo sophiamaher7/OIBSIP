@@ -2,7 +2,7 @@
 
 > **Oasis Infobyte Data Analytics Internship — Customer Segmentation Project**
 
-## 📌 Project Overview
+## Project Overview
 
 This project focuses on identifying groups of customers with similar purchasing behaviour using **RFM analysis and K-Means clustering**.
 
@@ -37,7 +37,7 @@ The main objectives of this project were to:
 
 ---
 
-## 🗂️ Dataset
+## Dataset
 
 The project uses the **Online Retail** transaction dataset.
 
@@ -142,7 +142,7 @@ Together, these three measures provide a behavioural profile of each customer.
 
 ---
 
-# 📊 5. Additional Customer Metrics
+# 5. Additional Customer Metrics
 
 To provide additional descriptive context, two additional metrics were calculated.
 
@@ -183,7 +183,7 @@ A log transformation is therefore applied to Frequency and Monetary Value to red
 
 ---
 
-# 🔧 7. Feature Preparation
+# 7. Feature Preparation
 
 The clustering features were prepared before applying K-Means.
 
@@ -285,7 +285,7 @@ These recommendations are potential strategies based on observed customer profil
 
 ---
 
-# 💡 Key Insights
+# Key Insights
 
 The analysis demonstrated several important patterns in customer behaviour.
 
@@ -362,7 +362,7 @@ Business Recommendations
 
 ---
 
-# 🛠️ Tools & Technologies
+# Tools & Technologies
 
 * **Python**
 * **pandas**
@@ -379,7 +379,7 @@ Business Recommendations
 ```text
 Customer_Segmentation/
 │
-├── Customer_Segmentation_RFM_KMeans.ipynb
+├── CustomerSegmentation.ipynb
 └──README.md
 ```
 
@@ -400,7 +400,7 @@ Future analysis could extend this project by incorporating:
 
 ---
 
-## 📌 Project Status
+## Project Status
 
 **Completed**
 
