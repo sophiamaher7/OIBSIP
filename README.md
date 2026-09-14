@@ -29,8 +29,6 @@ The analysis includes:
 
 **Tools:** Python, pandas, Matplotlib, Seaborn, Jupyter Notebook
 
-📁 **Project:** [`EDA/`](./EDA/)
-
 ---
 
 ### 2. 🧹 Financial Data Cleaning
@@ -48,9 +46,6 @@ The project covers:
 * Data cleaning and preparation
 
 **Tools:** Python, pandas, Jupyter Notebook
-
-📁 **Project:** [`Financial_Data_Cleaning/`](./Financial_Data_Cleaning/)
-
 ---
 
 ### 3. 👥 Customer Segmentation Analysis
@@ -80,8 +75,6 @@ The workflow includes:
 The analysis resulted in **four customer segments** with different levels of purchasing activity, engagement, and historical customer value.
 
 **Tools:** Python, pandas, NumPy, Matplotlib, Seaborn, scikit-learn, Jupyter Notebook
-
-📁 **Project:** [`Customer_Segmentation/`](./Customer_Segmentation/)
 
 ---
 
